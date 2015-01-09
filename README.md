@@ -1,10 +1,11 @@
-MC102
+Algoritmos e Programação de Computadores - MC102
 =====
 
-Laboratórios de MC102: Turmas R e S
+Laboratórios de MC102: Turmas QRST
 
 Primeiro Semestre - 2014
 
-Engenharia de Computação - Unicamp
-
 Professor: Zanoni Dias
+
+Computação - Unicamp
+
